@@ -1,4 +1,4 @@
-const API_KEY = '06d6c2ba7cad49bab6a5dfae2c0d1836'; // Get this free at spoonacular.com/food-api
+const API_KEY = 'YOUR_API_KEY'; // Get this free at spoonacular.com/food-api
 
 async function getRecipes() {
     const ingredients = document.getElementById('ingredientInput').value;
