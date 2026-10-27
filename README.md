@@ -28,8 +28,9 @@ Example: Lets try looking up for Banana:
 <img width="989" height="968" alt="image" src="https://github.com/user-attachments/assets/a08d46ed-481a-4ae7-bbd3-a03273c45d74" />
 
 So every time when we click on the Find Food Button, the endpoint that is being called is api.spoonacular.com/recipes/findByIngredients?ingredients=Banana&number
-https://api.spoonacular.com/recipes/findByIngredients?ingredients=Banana&number=3&apiKey=06d6c2ba7cad49bab6a5dfae2c0d1836 
-<img width="886" height="297" alt="image" src="https://github.com/user-attachments/assets/b17e085a-830f-40e9-a25a-82634e78c88f" />
+https://api.spoonacular.com/recipes/findByIngredients?ingredients=Banana&number=3&apiKey=APIKEY 
+Request Payload:
+<img width="1261" height="138" alt="image" src="https://github.com/user-attachments/assets/2d28d8e5-3e75-4c73-abd2-59c17b271778" />
 
 Preview of the request:
 <img width="1030" height="221" alt="image" src="https://github.com/user-attachments/assets/b6f47cd3-684c-4e84-800f-7d02c28d4bc3" />
