@@ -5,6 +5,8 @@ This is how the UI looks like :
 Then we can choose an item that we are looking for...
 
 Example: If I am looking for Apples then I will enter it and click on the Find Food Button.
+<img width="1195" height="508" alt="image" src="https://github.com/user-attachments/assets/81c2c84e-0b98-43d9-a65d-493d41885fd6" />
+
 Then the below pictures shows whether that item is present in the fridge like below:
 <img width="1299" height="989" alt="image" src="https://github.com/user-attachments/assets/49d612ad-39d1-4c10-939d-c18e0cac1c7b" />
 <img width="1250" height="971" alt="image" src="https://github.com/user-attachments/assets/3c209689-a634-4a77-87cd-cf585e66079f" />
