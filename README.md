@@ -10,6 +10,15 @@ Then the below pictures shows whether that item is present in the fridge like be
 <img width="1888" height="980" alt="image" src="https://github.com/user-attachments/assets/cc265aa3-b839-49eb-b18d-0ff79e73dd1a" />
 <img width="1277" height="401" alt="image" src="https://github.com/user-attachments/assets/93cf586d-06ba-4483-ac7a-558bba87408b" />
 
+Example: Lets Try searching for Chocolate:
+<img width="1508" height="741" alt="image" src="https://github.com/user-attachments/assets/ed1ed3ff-79b3-4b05-a8b4-3456ae093b05" />
+
+The below show the response as follows:
+<img width="1599" height="982" alt="image" src="https://github.com/user-attachments/assets/a11c5dc0-cfd2-4920-91b7-3c963ffdebfa" />
+<img width="1270" height="964" alt="image" src="https://github.com/user-attachments/assets/5ef5656b-d52a-40ee-98d2-6d3dd9f6f402" />
+
+
+
 
 
 
