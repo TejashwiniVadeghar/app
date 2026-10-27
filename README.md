@@ -23,6 +23,24 @@ The response is as follows:
 <img width="1299" height="989" alt="image" src="https://github.com/user-attachments/assets/49d612ad-39d1-4c10-939d-c18e0cac1c7b" />
 <img width="1250" height="971" alt="image" src="https://github.com/user-attachments/assets/3c209689-a634-4a77-87cd-cf585e66079f" />
 
+Example: Lets try looking up for Banana:
+<img width="956" height="973" alt="image" src="https://github.com/user-attachments/assets/df07b4ca-a5a3-4475-a623-63cf51520b88" />
+<img width="989" height="968" alt="image" src="https://github.com/user-attachments/assets/a08d46ed-481a-4ae7-bbd3-a03273c45d74" />
+
+So every time when we click on the Find Food Button, the endpoint that is being called is api.spoonacular.com/recipes/findByIngredients?ingredients=Banana&number
+https://api.spoonacular.com/recipes/findByIngredients?ingredients=Banana&number=3&apiKey=06d6c2ba7cad49bab6a5dfae2c0d1836 
+<img width="886" height="297" alt="image" src="https://github.com/user-attachments/assets/b17e085a-830f-40e9-a25a-82634e78c88f" />
+
+Preview of the request:
+<img width="1030" height="221" alt="image" src="https://github.com/user-attachments/assets/b6f47cd3-684c-4e84-800f-7d02c28d4bc3" />
+
+Response:
+<img width="1267" height="644" alt="image" src="https://github.com/user-attachments/assets/9cb96694-2ee6-43c8-9d52-1bcfd932808e" />
+
+
+
+
+
 
 
 
