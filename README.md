@@ -17,6 +17,13 @@ The below show the response as follows:
 <img width="1599" height="982" alt="image" src="https://github.com/user-attachments/assets/a11c5dc0-cfd2-4920-91b7-3c963ffdebfa" />
 <img width="1270" height="964" alt="image" src="https://github.com/user-attachments/assets/5ef5656b-d52a-40ee-98d2-6d3dd9f6f402" />
 
+Example: Lets now try looking for apples:
+
+The response is as follows:
+<img width="1299" height="989" alt="image" src="https://github.com/user-attachments/assets/49d612ad-39d1-4c10-939d-c18e0cac1c7b" />
+<img width="1250" height="971" alt="image" src="https://github.com/user-attachments/assets/3c209689-a634-4a77-87cd-cf585e66079f" />
+
+
 
 
 
